@@ -15,7 +15,7 @@ function Show ({bread, index}) {
                 : <span> does NOT </span>
                 }
                 have gluten.
-            </p>
+            </p>† 
             <img src={bread.image} alt={bread.name} />
             <li>
               <a href="/breads">Go home</a>
